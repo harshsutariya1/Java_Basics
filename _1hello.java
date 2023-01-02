@@ -1,7 +1,7 @@
-public class _01Main {
+public class _1hello {
   public static void main (String[]args){
-    System.out.print("hello world!"); //output
     System.out.println("hello world!"); //output
+    System.out.print("hello world!"); //output
   }
 }//boilerplate
 

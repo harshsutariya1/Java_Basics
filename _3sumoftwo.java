@@ -1,11 +1,11 @@
 import java.util.*;
 
-class _03sumoftwo {
+class _3sumoftwo {
 public static void main(String[] args){
   
 Scanner sc = new Scanner(System.in);
   
-  int a, b, c;
+  int a, b;
   
   System.out.print("Enter two numbers : ");
   

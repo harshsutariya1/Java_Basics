@@ -1,6 +1,6 @@
 import java.util.*;
 
-class _04areaofcircle{
+class _4areaofcircle{
 public static void main(String[] args){
 
   Scanner sc = new Scanner(System.in);
@@ -13,7 +13,7 @@ public static void main(String[] args){
   float answere = pi * R * R;
   System.out.print("Radius = ");
   System.out.println(answere);
-  
+
   
 }
 }
